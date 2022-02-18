@@ -7,5 +7,4 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Iris
 
 
 
-Author: Gourav Banerjee
-- Data Science Intern @ LGMVIP Feb-2022
+Author: Gourav Banerjee- Data Science Intern @ LGMVIP Feb-2022
